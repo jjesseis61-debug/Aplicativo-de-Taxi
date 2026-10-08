@@ -40,6 +40,7 @@ src/features/ride/       hook useRideFlow + ecrãs
 src/services/            instância do serviço usada pelo app (hoje: mock)
 src/ui/                  tema e componentes base
 supabase/migrations/     esquema e RPCs do backend (Postgres/Supabase)
+docs/CONTEXTO.md         análise, pesquisa e decisões do projecto
 ```
 
 `MockRideService` simula o backend em memória, incluindo motoristas fictícios
